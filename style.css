@@ -1,0 +1,22 @@
+body{
+ background: linear-gradient(Red 0%,Purple 100%);
+    text-align: center;
+}
+#Welcome{
+top: 20px;
+}
+img{ 
+width:300px;
+    z-index: 9;
+}
+.menu{
+    list-style: none;
+right: 30px;
+    top: 10px;
+    position:fixed;
+    z-index: 10;
+}
+.links{
+float: left;
+padding:10px;
+}
